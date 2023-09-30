@@ -1,4 +1,7 @@
-# Nuxt 3 Minimal Starter
+# DagBlik
+
+With DagBlik, you can easily plan your day with a clear timeline and hourly markers, all without the need to create an account. It's designed for simplicity and hassle-free daily organization. Give DagBlik a try and make your daily planning effortless!"
+
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
