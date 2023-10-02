@@ -41,7 +41,7 @@ export default {
 
 .footer-left {
   font-family: 'Inter', sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   justify-content: flex-start;
   font-size: 1.5rem;
 }
