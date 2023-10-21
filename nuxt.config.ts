@@ -8,5 +8,6 @@ export default defineNuxtConfig({
       }
     }],
     'nuxt-icon',
+    '@nuxtjs/tailwindcss'
   ],
 })

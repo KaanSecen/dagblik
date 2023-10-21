@@ -18,3 +18,8 @@ export default {
   },
 }
 </script>
+<style scoped>
+main {
+  padding: 2rem;
+}
+</style>
