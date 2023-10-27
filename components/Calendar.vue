@@ -57,9 +57,9 @@ export default {
   computed: {
     formattedDate() {
       return this.currentDate.toLocaleDateString(undefined, {
-        weekday: 'long',
+        weekday: "long",
         year: 'numeric',
-        month: 'long',
+        month: 'short',
         day: 'numeric',
       });
     },
@@ -130,7 +130,7 @@ export default {
   overflow: hidden;
   padding: 1rem;
   max-width: 400px;
-  margin: 2rem auto;
+  margin: 8rem auto;
 }
 
 .calendar-header {
@@ -151,7 +151,7 @@ export default {
 .date {
   font-weight: 600;
   color: #333;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .event-list {
